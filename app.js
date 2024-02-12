@@ -6,5 +6,8 @@ const celsius = kelvin - 273;
 let fahrenheit = celsius * (9/5) + 32;
 // Prevent decimal using Math.floor();
 fahrenheit = Math.floor(fahrenheit);
+// Calculates newton from celsius
+const newton = Math.floor(celsius * (33/100));
 
 console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+console.log(`The temperature is ${newton} degrees Newton.`);
