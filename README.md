@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### BUILDING INTERACTIVE WEBSITES
 
 # Kelvin Weather
-
-#### Objective provided by Codecademy:
 
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
 
